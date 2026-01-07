@@ -18,7 +18,7 @@ All game behavior is derived from this state.
   "game_over": false
 }
 
-```markdown
+```
 ## Tool Design
 
 Game logic is separated from conversational flow using explicit tools registered with the ADK agent.
